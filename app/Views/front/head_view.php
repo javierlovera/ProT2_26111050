@@ -12,7 +12,7 @@
             <div class="header-top">
                 <img src="assets\img\logoproteger.jpg" alt="logo del programa">
             </div>
-        <p class="importante">Somos personas que habitamos en un tiempo y un espacio y en él vivimos y lo cuidamos</p>
+        <p class="importante">Somos personas que habitamos en un tiempo y en un espacio y en él vivimos y lo cuidamos</p>
         <nav>
             <ul>
                 <li><a href="#lugar">Lugar</a></li>
