@@ -1,15 +1,13 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>principal</title>
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet" >
-  </head>
-  <body>
-    <h1>mi primer pagina web</h1>
-    <script src="assets/js/bootstrap.bundle.min.js" ></script>
-    <!---carrusel-->
+
+<div class="content-wrapper">
+    <section>
+      <h2>OBJETIVOS</h2>
+      <p>Desarrollar una estrategia de mejora en la accesibilidad a políticas Sociales, Sanitarias, Educativas y ambientales de los asentamientos de la ciudad de Corrientes </p>
+      <p> Organizar las acciones necesarias para dotar de accesibilidad a los servicios Sociales, Sanitarios, Educativos y Ambientales a 3400 familias; poniendo el foco en la asistencia a mujeres, embarazadas, niños, adolescentes y personas vulnerables.
+Mejorar la gobernabilidad en estos territorios. Potenciar capacidades para el desarrollo de la empleabilidad. Capacitar en organización Comunitaria y liderazgo a líderes barriales 
+      </p>
+            </section>
+    <!--carrusel-->
                 <div id="carouselExample" class="carousel slide">
   <div class="carousel-inner">
     <div class="carousel-item active">
