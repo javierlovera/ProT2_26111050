@@ -11,7 +11,7 @@
 <div class='row-text-center d-flex justufy-content-center'>
  <div class="card col-lg-3 col-md-6 col-sm-6 mr-5 mb-4">
     <!--div class="card" style="width: 18rem;"-->
-    <img src="assest/img/bill.jpg"class="card-img-top" alt="bill puertas">
+    <img src="\ProT2_26111050\assets\img\bill.jpg"class="card-img-top" alt="bill puertas">
   <div class="card-body">
     <h5 class="card-title">Bill Puertas</h5>
     <p class="card-text">Bill es el director del programa.</p>
@@ -19,7 +19,7 @@
   </div>
 </div>
 <div class="card col-lg-3 col-md-6 col-sm-6 mr-5 mb-4">
-    <img src="assest/img/elon.jpg"class="card-img-top" alt="Elon">
+    <img src="\ProT2_26111050\assets\img\elon.jpg"class="card-img-top" alt="Elon">
   <div class="card-body">
     <h5 class="card-title">Elon Almizcle</h5>
     <p class="card-text">Elon es el coordinador general.</p>
@@ -27,7 +27,7 @@
   </div>
 </div>
 <div class="card col-lg-3 col-md-6 col-sm-6 mr-5 mb-4">
-    <img src="assest/img/mark.jpg"class="card-img-top" alt="Mark">
+    <img src="\ProT2_26111050\assets\img\mark.jpg"class="card-img-top" alt="Mark">
   <div class="card-body">
     <h5 class="card-title">Marcos Monton de Azucar</h5>
     <p class="card-text">Marcos es data entry.</p>
